@@ -1,5 +1,5 @@
 > Disclaimer!
-> The main branch is heavily outdated. For more recent updates and preview, check out [next-gen](https://github.com/Katnip-org/Katnip/tree/next-gen)
+> The main branch is heavily outdated. For more recent updates and preview, check out [next-gen](https://github.com/Katnip-org/Katnip)
 
 # Katnip 
 ![Katnip](app_static/references/title.png)
